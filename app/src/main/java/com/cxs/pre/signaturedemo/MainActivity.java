@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         String d;
+
+        String dddd = "";
+
+        boolean isUpdate;
     }
 }
