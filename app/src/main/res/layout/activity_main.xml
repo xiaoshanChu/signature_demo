@@ -19,6 +19,7 @@
         android:layout_height="match_parent"
         android:layout_below="@+id/btn_clean"
         app:maxWidth="3dp"
-        app:minWidth="1dp" />
+        app:minWidth="1dp"
+        />
 
 </RelativeLayout>
