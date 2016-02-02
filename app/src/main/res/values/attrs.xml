@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SignaturePad">
+        <attr name="minWidth" format="dimension" />
+        <attr name="maxWidth" format="dimension" />
+        <attr name="penColor" format="color" />
+        <attr name="velocityFilterWeight" format="float" />
+    </declare-styleable>
+    
+    <declare-styleable name="signature_view">
+        <attr name="paintStrokeMinWidth" format="dimension" />
+        <attr name="paintStrokeMaxWidth" format="dimension" />
+    </declare-styleable>
+
+</resources>
