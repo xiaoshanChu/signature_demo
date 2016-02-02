@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void btnClean(View v){
-        signatureView = (SignaturePad)findViewById(R.id.sp_signature);
+    public void btnClean(View v) {
+        signatureView = (SignaturePad) findViewById(R.id.sp_signature);
         signatureView.clear();
     }
 }
